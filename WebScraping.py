@@ -43,10 +43,10 @@ def web_page(links):
 
 if __name__ == "__main__":
     #API key to access search engine.
-    api_key = "AIzaSyDvfVjK6pnOdYAPf-UMi4etRi0W7Fz2spI"
+    api_key = "-_-"
 
     #id of custom google search engine.
-    cx = "0169eec34796e4587"
+    cx = "-_-"
 
     query = input("Enter the Google search query: ")
     Google_search(query, api_key, cx)
