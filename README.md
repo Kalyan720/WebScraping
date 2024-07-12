@@ -37,8 +37,3 @@ Credits
 - Requests: HTTP library for Python.
 - BeautifulSoup: Library for parsing HTML and XML documents.
 
-Contact
-For questions or support regarding this project, feel free to contact me:
-
-- Email: your.email@example.com
-- Twitter: @your_twitter_handle
